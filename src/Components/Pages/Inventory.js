@@ -67,7 +67,7 @@ const Inventory = () => {
         <thead>
           <tr>
             <th>ID</th>
-            <th>Item Name</th>
+            <th>Item</th>
             <th>Quantity</th>
             <th>Action</th>
           </tr>
