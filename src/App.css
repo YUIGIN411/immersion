@@ -1,6 +1,6 @@
 body {
   background-image: url("/src/assets/anime1.jpg");
-  background-size: contain;
+  background-size: auto;
 }
 
 table {
@@ -37,11 +37,11 @@ td {
 }
 
 .search button {
-  border: 1px solid black;
+  border: 1px solid white;
   height: 26px;
   border-radius: 5px;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   cursor: pointer;
 }
 
@@ -58,7 +58,7 @@ td {
 }
 
 .modal {
-  background: white;
+  background: blue;
   padding: 50px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(52, 53, 94, 0.64);
