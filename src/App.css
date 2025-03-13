@@ -1,6 +1,6 @@
 body {
   background-image: url("/src/assets/anime1.jpg");
-  background-size: cover;
+  background-size: contain;
 }
 
 table {
@@ -8,6 +8,7 @@ table {
   border: 1px solid black;
   border-collapse: collapse;
   background-image: url("/src/assets/anime2.jpg");
+  background-size: cover;
 }
 
 th {
