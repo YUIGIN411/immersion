@@ -1,7 +1,13 @@
+body {
+  background-image: url("/src/assets/anime1.jpg");
+  background-size: auto;
+}
+
 table {
   margin: 50px auto;
   border: 1px solid black;
   border-collapse: collapse;
+  background-image: url("/src/assets/anime2.jpg");
 }
 
 th {
