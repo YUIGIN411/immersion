@@ -1,14 +1,12 @@
 body {
   background-image: url("/src/assets/anime1.jpg");
-  background-size: cover;
+  background-size: 100%;
 }
 
 table {
   margin: 50px auto;
   border: 1px solid black;
   border-collapse: collapse;
-  background-image: url("/src/assets/anime2.jpg");
-  background-size: cover;
 }
 
 th {
@@ -58,7 +56,8 @@ td {
 }
 
 .modal {
-  background: blue;
+  background-image: url("/src/assets/anime2.jpg");
+  background-size: cover;
   padding: 50px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(52, 53, 94, 0.64);
